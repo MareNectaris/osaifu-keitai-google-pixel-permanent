@@ -18,7 +18,7 @@ Search for the model ID in a hex editor.
 
 Model ID available at: Settings - About Phone - Regulatory Labels
 
-e.g. Search for string `G020I` for international Pixel 4. Edit to `G020N` to use Japanese model ID.
+e.g. Search for string `G020I` for American Pixel 4. Edit to `G020N` to use Japanese model ID.
 
 Refer to [this page](https://support.google.com/pixelphone/answer/16043605) for model IDs on other Pixels.
 
