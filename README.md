@@ -51,7 +51,7 @@ After that, install the Mobile Suica app (`com.mobilesuica.msb.android`) or fire
 
 ## Caveats
 
-Cellular band/frequency support may or may not change after editing the model ID.
+Supported cellular bands/frequencies may or may not change after editing the model ID.
 
 Your warranty may be voided. I am not responsible for any changes or damages made to your device.
 
