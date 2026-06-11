@@ -49,6 +49,12 @@ With a Japanese Google account, search for these apps on the Play Store and inst
 
 After that, install the Mobile Suica app (`com.mobilesuica.msb.android`) or fire up the Google Wallet app; at this point it should just work.
 
+## Caveats
+
+Cellular band/frequency support may or may not change after editing the model ID.
+
+Your warranty may be voided. I am not responsible for any changes or damages made to your device.
+
 ## Resources
 
 * <https://xdaforums.com/t/converting-japanese-pixel-6-to-global-version.4365275/page-9#post-89084361>
